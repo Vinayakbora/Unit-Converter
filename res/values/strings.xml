@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CWHApp</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_value_in_KG" />
+    <string name="enter_value_in_kg">Enter value in KG</string>
+</resources>
